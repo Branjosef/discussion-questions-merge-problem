@@ -1,4 +1,4 @@
-# Code Challenge
+# Merge Challenge
 
 Your task is to work with someone else at your table to define a method called `merge(array1, array2)` that is called with two **sorted** arrays. It should return a single array that contains all the elements of both arrays in sorted order.
 
@@ -13,3 +13,5 @@ merge([2,3,4,5], [1])
 ```
 
 Remember, you can assume the two input arrays given to your method will always be in sorted order.
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/discussion-questions-merge-problem'>Discussion Questions During Assessment Grading - Merge Problem</a> on Learn.co and start learning to code for free.</p>
